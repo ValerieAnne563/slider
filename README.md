@@ -8,6 +8,7 @@ https://valerieanne563.github.io/slider/
 ## How to use
 index.html provides an example snippet for use    
 source images must have the same height and width. Unpredictable behavior if they do not
+The images will be 400px in width by default, as defined in styles/slider-client.css
 
 ## Source history prior to this repo:
 
