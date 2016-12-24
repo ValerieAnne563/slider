@@ -37,15 +37,15 @@
   /* Big green knob  */
   position: absolute;
   top: 50%;
-  width: 64px;
-  height: 64px;
-  margin: -32px 0 0 -32px;
+  width: 40px;
+  height: 40px;
+  margin: -20px 0 0 -20px;
   content: '\2194';
   color: black;
   // font-weight:bold;
-  font-size: 32px;
+  font-size: 20px;
   text-align: center;
-  line-height: 64px;
+  line-height: 40px;
   background: #99ff99;
   /* @darker green of gradient */
   border: 1px solid #008000;
